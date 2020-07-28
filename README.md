@@ -1,7 +1,3 @@
-<p align="center">
-        <img src="demo.gif"/>
-</p>
-
 ## Pizza Delivery React App (Frontend)
 
 [![Twitter](https://img.shields.io/twitter/follow/alimmirzaee.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=alimmirzaee)
